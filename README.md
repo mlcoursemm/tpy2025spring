@@ -11,7 +11,7 @@
 К.ф.-м.н. Иванов И.Е.
 
 ## Полезные ссылки
-[Telegram группа для обсуждений](TBD)
+[Telegram группа для обсуждений](https://t.me/+hCHW2T3RXvpmODIy)
 
 [Telegram бот для сдачи задач](t.me/tpy2025bot) @tpy2025bot
 
